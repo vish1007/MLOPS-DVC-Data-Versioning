@@ -1,9 +1,3 @@
-Got it! Thanks for the clarification 🙌
-
-Since you're learning Git and DVC through this repo and following an example (maybe from a YouTube tutorial), your `README.md` should reflect that it's a **learning/practice project**, not a full production-grade implementation.
-
-Here's a **simplified and more appropriate README section** tailored for your use case:
-
 ---
 
 ## 📘 YT-MLOPS-DVC-DataVersion
